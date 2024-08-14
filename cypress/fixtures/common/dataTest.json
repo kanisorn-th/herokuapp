@@ -1,0 +1,9 @@
+{"Success":{
+  "username": "tomsmith",
+  "password": "SuperSecretPassword!"
+},
+"Incorrect":{  
+  "username": "tomholland",
+  "password": "Password!"
+}
+}
